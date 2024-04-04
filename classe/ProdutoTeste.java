@@ -1,3 +1,5 @@
+package classe;
+
 public class ProdutoTeste {
     public static void main (String[] args){
         Produto p1 = new Produto();
